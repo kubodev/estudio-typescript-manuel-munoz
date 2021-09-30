@@ -1,0 +1,13 @@
+Clases es un plantilla de un objeto
+Métodos, atributos de dicho objeto
+
+Objeto Coche
+Propiedades
+    color
+    marca
+    numero de ruedas
+    numero de puertas
+Metodos
+    Arrancar
+    Acelerar
+    Frenar
